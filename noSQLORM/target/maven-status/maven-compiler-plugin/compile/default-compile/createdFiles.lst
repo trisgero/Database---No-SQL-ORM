@@ -1,0 +1,6 @@
+it\triexercise\noSQLORM\entity\User.class
+it\triexercise\noSQLORM\config\mongoDBConfig.class
+it\triexercise\noSQLORM\repository\UserRepository.class
+it\triexercise\noSQLORM\controllers\UserController.class
+it\triexercise\noSQLORM\service\UserService.class
+it\triexercise\noSQLORM\NoSqlormApplication.class
